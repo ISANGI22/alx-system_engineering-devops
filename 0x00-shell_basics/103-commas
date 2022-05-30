@@ -1,2 +1,2 @@
 #!/bin/bash
-ls --group-directories-first -a --file-type -format
+ls -map
