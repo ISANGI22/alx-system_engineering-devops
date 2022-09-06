@@ -11,3 +11,4 @@ Task 7: It is a good file that cuts iron without making a noise
 Task 8: Save current state of directory
 task 9: Duplicate last line
 Task 10: No more javascript
+Task 11: Don't just count your directories, make your directories count
