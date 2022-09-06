@@ -24,3 +24,4 @@ Task 20: Without C, you would live in hiago
 Task 21: esreveR
 Task 22: DJ Cut Killer
 Task 23: Empty casks make the most noise
+Task 24: A gif is worth ten thousand words
